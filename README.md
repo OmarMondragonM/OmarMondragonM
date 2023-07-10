@@ -1,4 +1,4 @@
-![This is me](https://github.com/OmarMondragonM/OmarMondragonM/blob/main/Fondo%20de%20programaci%C3%B3n.avif)
+![This is me](https://github.com/OmarMondragonM/OmarMondragonM/blob/main/Fondo%20de%20programaci%C3%B3n.jpg)
 ```javascript
 const KeepCoding = {
 code: [
