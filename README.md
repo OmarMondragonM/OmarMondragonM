@@ -12,7 +12,4 @@ technologies:[
 "Webbinars",
 "BootCamps",
 ]
-},
-homePage: "https://justcodeit.io/"
-};
-``````
+
